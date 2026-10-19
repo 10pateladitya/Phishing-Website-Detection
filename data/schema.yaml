@@ -1,0 +1,195 @@
+columns:
+  abnormal_url:
+    allowed_unique_values:
+    - -1
+    - 1
+    data_type: int64
+    total_unique_values: 2
+  age_of_domain:
+    allowed_unique_values:
+    - -1
+    - 1
+    data_type: int64
+    total_unique_values: 2
+  dnsrecord:
+    allowed_unique_values:
+    - -1
+    - 1
+    data_type: int64
+    total_unique_values: 2
+  domain_registeration_length:
+    allowed_unique_values:
+    - -1
+    - 1
+    data_type: int64
+    total_unique_values: 2
+  double_slash_redirecting:
+    allowed_unique_values:
+    - -1
+    - 1
+    data_type: int64
+    total_unique_values: 2
+  favicon:
+    allowed_unique_values:
+    - 1
+    - -1
+    data_type: int64
+    total_unique_values: 2
+  google_index:
+    allowed_unique_values:
+    - 1
+    - -1
+    data_type: int64
+    total_unique_values: 2
+  having_at_symbol:
+    allowed_unique_values:
+    - 1
+    - -1
+    data_type: int64
+    total_unique_values: 2
+  having_ip_address:
+    allowed_unique_values:
+    - -1
+    - 1
+    data_type: int64
+    total_unique_values: 2
+  having_sub_domain:
+    allowed_unique_values:
+    - -1
+    - 0
+    - 1
+    data_type: int64
+    total_unique_values: 3
+  https_token:
+    allowed_unique_values:
+    - -1
+    - 1
+    data_type: int64
+    total_unique_values: 2
+  iframe:
+    allowed_unique_values:
+    - 1
+    - -1
+    data_type: int64
+    total_unique_values: 2
+  links_in_tags:
+    allowed_unique_values:
+    - 1
+    - -1
+    - 0
+    data_type: int64
+    total_unique_values: 3
+  links_pointing_to_page:
+    allowed_unique_values:
+    - 1
+    - 0
+    - -1
+    data_type: int64
+    total_unique_values: 3
+  on_mouseover:
+    allowed_unique_values:
+    - 1
+    - -1
+    data_type: int64
+    total_unique_values: 2
+  page_rank:
+    allowed_unique_values:
+    - -1
+    - 1
+    data_type: int64
+    total_unique_values: 2
+  popupwidnow:
+    allowed_unique_values:
+    - 1
+    - -1
+    data_type: int64
+    total_unique_values: 2
+  port:
+    allowed_unique_values:
+    - 1
+    - -1
+    data_type: int64
+    total_unique_values: 2
+  prefix_suffix:
+    allowed_unique_values:
+    - -1
+    - 1
+    data_type: int64
+    total_unique_values: 2
+  redirect:
+    allowed_unique_values:
+    - 0
+    - 1
+    data_type: int64
+    total_unique_values: 2
+  request_url:
+    allowed_unique_values:
+    - 1
+    - -1
+    data_type: int64
+    total_unique_values: 2
+  result:
+    allowed_unique_values:
+    - -1
+    - 1
+    data_type: int64
+    total_unique_values: 2
+  rightclick:
+    allowed_unique_values:
+    - 1
+    - -1
+    data_type: int64
+    total_unique_values: 2
+  sfh:
+    allowed_unique_values:
+    - -1
+    - 1
+    - 0
+    data_type: int64
+    total_unique_values: 3
+  shortining_service:
+    allowed_unique_values:
+    - 1
+    - -1
+    data_type: int64
+    total_unique_values: 2
+  sslfinal_state:
+    allowed_unique_values:
+    - -1
+    - 1
+    - 0
+    data_type: int64
+    total_unique_values: 3
+  statistical_report:
+    allowed_unique_values:
+    - -1
+    - 1
+    data_type: int64
+    total_unique_values: 2
+  submitting_to_email:
+    allowed_unique_values:
+    - -1
+    - 1
+    data_type: int64
+    total_unique_values: 2
+  url_length:
+    allowed_unique_values:
+    - 1
+    - 0
+    - -1
+    data_type: int64
+    total_unique_values: 3
+  url_of_anchor:
+    allowed_unique_values:
+    - -1
+    - 0
+    - 1
+    data_type: int64
+    total_unique_values: 3
+  web_traffic:
+    allowed_unique_values:
+    - -1
+    - 0
+    - 1
+    data_type: int64
+    total_unique_values: 3

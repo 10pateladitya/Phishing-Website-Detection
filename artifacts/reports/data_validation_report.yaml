@@ -1,0 +1,71 @@
+details:
+  abnormal_url:
+    status: Passed
+  age_of_domain:
+    status: Passed
+  dnsrecord:
+    status: Passed
+  domain_registeration_length:
+    status: Passed
+  double_slash_redirecting:
+    status: Passed
+  favicon:
+    status: Passed
+  google_index:
+    status: Passed
+  having_at_symbol:
+    status: Passed
+  having_ip_address:
+    status: Passed
+  having_sub_domain:
+    status: Passed
+  https_token:
+    status: Passed
+  iframe:
+    status: Passed
+  links_in_tags:
+    status: Passed
+  links_pointing_to_page:
+    status: Passed
+  on_mouseover:
+    status: Passed
+  page_rank:
+    status: Passed
+  popupwidnow:
+    status: Passed
+  port:
+    status: Passed
+  prefix_suffix:
+    status: Passed
+  redirect:
+    status: Passed
+  request_url:
+    status: Passed
+  result:
+    status: Passed
+  rightclick:
+    status: Passed
+  sfh:
+    status: Passed
+  shortining_service:
+    status: Passed
+  sslfinal_state:
+    status: Passed
+  statistical_report:
+    status: Passed
+  submitting_to_email:
+    status: Passed
+  url_length:
+    status: Passed
+  url_of_anchor:
+    status: Passed
+  web_traffic:
+    status: Passed
+errors: []
+schema_version: 1.0
+summary:
+  columns_failed: 0
+  columns_passed: 62
+  total_columns_checked: 62
+validation_date: '2025-05-31T11:43:49.714802'
+validation_status: Passed

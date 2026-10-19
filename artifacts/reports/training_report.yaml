@@ -1,0 +1,25 @@
+- clf_name: RandomForest
+  mean_fit_time: 1.0230030059814452
+  mean_test_score: 0.9711672110684514
+  param_clf: RandomForestClassifier(random_state=42)
+  std_test_score: 0.004152026644003894
+- clf_name: SVC
+  mean_fit_time: 5.035059595108033
+  mean_test_score: 0.9629134490688044
+  param_clf: SVC(probability=True, random_state=42)
+  std_test_score: 0.006367959479602988
+- clf_name: KNeighbors
+  mean_fit_time: 0.01248927116394043
+  mean_test_score: 0.9623475824212365
+  param_clf: KNeighborsClassifier()
+  std_test_score: 0.004585096175137608
+- clf_name: Logistic
+  mean_fit_time: 0.1001054286956787
+  mean_test_score: 0.9269565211830699
+  param_clf: LogisticRegression(max_iter=1000, random_state=42)
+  std_test_score: 0.004702061554519814
+- clf_name: Ridge
+  mean_fit_time: 0.012030220031738282
+  mean_test_score: 0.9206251326899416
+  param_clf: RidgeClassifier(random_state=42)
+  std_test_score: 0.005309082293093177
